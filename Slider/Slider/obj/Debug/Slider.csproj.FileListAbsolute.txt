@@ -1,0 +1,36 @@
+C:\Users\Nadia\source\repos\Slider\Slider\bin\Debug\Slider.exe.config
+C:\Users\Nadia\source\repos\Slider\Slider\bin\Debug\Slider.exe
+C:\Users\Nadia\source\repos\Slider\Slider\bin\Debug\Slider.pdb
+C:\Users\Nadia\source\repos\Slider\Slider\obj\Debug\Slider.csproj.AssemblyReference.cache
+C:\Users\Nadia\source\repos\Slider\Slider\obj\Debug\Slider.Properties.Resources.resources
+C:\Users\Nadia\source\repos\Slider\Slider\obj\Debug\Slider.csproj.GenerateResource.cache
+C:\Users\Nadia\source\repos\Slider\Slider\obj\Debug\Slider.csproj.CoreCompileInputs.cache
+C:\Users\Nadia\source\repos\Slider\Slider\obj\Debug\Slider.exe
+C:\Users\Nadia\source\repos\Slider\Slider\obj\Debug\Slider.pdb
+C:\Users\Nadia\source\repos\Slider\Slider\obj\Debug\Slider.Main.resources
+C:\Users\Nadia\source\repos\Slider\Slider\obj\Debug\Slider.GameForm.resources
+C:\Users\Nadia\source\repos\Slider\Slider\obj\Debug\Slider.Instructions.resources
+C:\Users\0071rm - it&c\Desktop\Slider\Slider\bin\Debug\Slider.exe.config
+C:\Users\0071rm - it&c\Desktop\Slider\Slider\bin\Debug\Slider.exe
+C:\Users\0071rm - it&c\Desktop\Slider\Slider\bin\Debug\Slider.pdb
+C:\Users\0071rm - it&c\Desktop\Slider\Slider\obj\Debug\Slider.csproj.AssemblyReference.cache
+C:\Users\0071rm - it&c\Desktop\Slider\Slider\obj\Debug\Slider.Main.resources
+C:\Users\0071rm - it&c\Desktop\Slider\Slider\obj\Debug\Slider.GameForm.resources
+C:\Users\0071rm - it&c\Desktop\Slider\Slider\obj\Debug\Slider.Instructions.resources
+C:\Users\0071rm - it&c\Desktop\Slider\Slider\obj\Debug\Slider.Properties.Resources.resources
+C:\Users\0071rm - it&c\Desktop\Slider\Slider\obj\Debug\Slider.csproj.GenerateResource.cache
+C:\Users\0071rm - it&c\Desktop\Slider\Slider\obj\Debug\Slider.csproj.CoreCompileInputs.cache
+C:\Users\0071rm - it&c\Desktop\Slider\Slider\obj\Debug\Slider.exe
+C:\Users\0071rm - it&c\Desktop\Slider\Slider\obj\Debug\Slider.pdb
+C:\Slider\Slider\bin\Debug\Slider.exe.config
+C:\Slider\Slider\bin\Debug\Slider.exe
+C:\Slider\Slider\bin\Debug\Slider.pdb
+C:\Slider\Slider\obj\Debug\Slider.csproj.AssemblyReference.cache
+C:\Slider\Slider\obj\Debug\Slider.Main.resources
+C:\Slider\Slider\obj\Debug\Slider.GameForm.resources
+C:\Slider\Slider\obj\Debug\Slider.Instructions.resources
+C:\Slider\Slider\obj\Debug\Slider.Properties.Resources.resources
+C:\Slider\Slider\obj\Debug\Slider.csproj.GenerateResource.cache
+C:\Slider\Slider\obj\Debug\Slider.csproj.CoreCompileInputs.cache
+C:\Slider\Slider\obj\Debug\Slider.exe
+C:\Slider\Slider\obj\Debug\Slider.pdb

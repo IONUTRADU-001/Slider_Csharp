@@ -1,0 +1,11 @@
+[11:53:43 p.m.][17.01.23] Number of moves: 42
+miercuri, 18 ianuarie 2023 Number of moves: 50
+miercuri, 18 ianuarie 2023, 12:30:15 a.m. Number of moves: 72
+miercuri, 25 ianuarie 2023, 09:17:33 a.m. Numarul de mutari: 23
+miercuri, 25 ianuarie 2023, 09:19:34 a.m. Numarul de mutari: 10
+joi, 26 ianuarie 2023, 01:00:21 a.m. Numarul de mutari: 46
+joi, 26 ianuarie 2023, 02:25:29 a.m. Numarul de mutari: 19738545.02:25:27.5787009
+joi, 26 ianuarie 2023, 02:34:07 a.m. Numarul de mutari: 74	Timpul partidei: 2ore si 34 minute.
+joi, 26 ianuarie 2023, 02:38:04 a.m. Numarul de mutari: 13	Timpul partidei: 0minute si 12 secunde.
+joi, 26 ianuarie 2023, 02:42:35 a.m. Numarul de mutari: 214	Timpul partidei: 42 minute si 34 secunde.
+joi, 26 ianuarie 2023, 02:48:50 a.m. Numarul de mutari: 42	Timpul partidei: 0 minute si 16 secunde.
